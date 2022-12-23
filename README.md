@@ -2,7 +2,7 @@
 <h3>A passionate full-stack developer and Researcher</h3>
 
 # 💫 About Me:
-👯 I’m looking to collaborate on an exciting project.<br>🌱 I’m currently learning full-stack software development<br>💬 Ask me about python, matlab, c++ and javascript<br>⚡ Navigating through life<br>📫 How to reach me: ameerhamza.khalid1997@gmail.com
+👯 I’m looking to collaborate on an exciting project.<br>🌱 I’m currently learning full-stack software development<br>💬 Ask me about JavaScript, Python, C++ & MatLab<br>⚡ Navigating through life<br>📫 How to reach me: ameerhamza.khalid1997@gmail.com
 
 
 ## 🌐 Socials:
